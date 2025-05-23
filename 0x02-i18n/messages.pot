@@ -1,0 +1,19 @@
+# Translations template for i18n.
+# Copyright (C) 2025 Rutendo Mususa
+# This file is distributed under the same license as the i18n project.
+# Rutendo Mususa <ruemususa6700@gmail.com>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: ruemususa6700@gmail.com\n"
+"POT-Creation-Date: 2025-05-23 11:34+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Rutendo Mususa <ruemususa6700@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
+
